@@ -19,6 +19,7 @@ This project performs end-to-end sales analytics on the "Superstore" dataset usi
 
 SalesAnalyticsProject/
 │
+
 ├── cleaned_superstore_data.csv # Cleaned data
 
 ├── data_cleaning.py # Data cleaning script
