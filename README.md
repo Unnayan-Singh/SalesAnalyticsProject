@@ -20,14 +20,23 @@ This project performs end-to-end sales analytics on the "Superstore" dataset usi
 SalesAnalyticsProject/
 │
 ├── cleaned_superstore_data.csv # Cleaned data
+
 ├── data_cleaning.py # Data cleaning script
+
 ├── data_exploration.py # Dataset overview
+
 ├── customer_analysis.py # Top customers by profit
+
 ├── category_sales.py # Category/Sub-Category sales
+
 ├── top_states_profit.py # Top profitable states
+
 ├── regional_sales.py # Region-wise sales
+
 ├── segment_profit.py # Segment-wise profit
-├── insights_summary.py # Final insights and    recommendations
+
+├── insights_summary.py # Final insights and recommendations
+
 ├── README.md # Project summary
 
 
@@ -82,6 +91,7 @@ python category_sales.py
 
 4. Visuals will be saved in the /plots folder.
 
+---
 
 ## 📈 Future Enhancements
 
